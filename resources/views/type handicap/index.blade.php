@@ -46,7 +46,7 @@
             @foreach ($data as $value )
 
             <tr>
-                <td>{{$value->id}}dd </td>
+                <td>{{$value->id}}</td>
                 <td>{{$value->nom}} </td>
                 <td>{{$value->description}} </td>
 
